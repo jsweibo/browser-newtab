@@ -1,0 +1,29 @@
+{
+  "name": "browser-newtab",
+  "version": "1.0.0",
+  "description": "It can change the newtab of the browser to the jsweibo's newtab",
+  "private": true,
+  "scripts": {
+    "build": "gulp",
+    "prettier": "prettier --write src",
+    "dev": "gulp dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jsweibo/browser-newtab.git"
+  },
+  "keywords": [
+    "browser-newtab"
+  ],
+  "author": "jsweibo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsweibo/browser-newtab/issues"
+  },
+  "homepage": "https://github.com/jsweibo/browser-newtab#readme",
+  "devDependencies": {
+    "delete": "^1.1.0",
+    "gulp": "^4.0.2",
+    "prettier": "^2.5.1"
+  }
+}
